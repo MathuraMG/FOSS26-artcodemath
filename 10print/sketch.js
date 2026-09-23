@@ -1,33 +1,20 @@
-let x, y;
-let size,choice;
+let choice, size;
 function setup() {
   createCanvas(400, 400);
-  
+  frameRate(2);
   size = 20;
-  frameRate(2)
 }
 
 function draw() {
   background(220);
-  for (x = size / 2; x < 400; x += size) {
-    for (y = size / 2; y < 400; y += size) {
-     //ellipse(x, y, 50, 50);
-      choice=random(0,1);
-      if(choice<0.5){
-      line(x-size/2,y-size/2,x+size/2,y+size/2)
-        }
-      else{
-         line(x+size/2,y-size/2,x-size/2,y+size/2)
+  for (let i=0; i < width; i += size) {
+    for (let j = 0; j < height; j += size) {
+      choice = random(0, 1);
+      if (choice < 0.5) {
+        line(i, j, i+size, j+size);
+      } else {
+        line(i,j+size, i+size,j);
       }
     }
-  }
-}
-
-function keyPressed() {
-  if (key == "s") {
-    saveCanvas("10print.png");
-  }
-  if (key == "g") {
-    saveGif("10print.gif", 5);
   }
 }
