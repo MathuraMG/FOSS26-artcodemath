@@ -4,16 +4,16 @@
 
 ## At a glance
 
-| # | Session | Duration | Clock |
-|---|---------|----------|-------|
-| 1 | 👋 Introductions | 15 min | 0:00 – 0:15 |
-| 2 | 💻 Intro to p5.js | 15 min | 0:15 – 0:30 |
-| 3 | 🔲 10 PRINT demo & explanation | 15 min | 0:30 – 0:45 |
-| 4 | 🧪 Experiment with 10 PRINT | 15 min | 0:45 – 1:00 |
-| 5 | 〰️ Truchet tiles | 15 min | 1:00 – 1:15 |
-| 6 | 🎨 Image manipulation through pointillism | 30 min | 1:15 – 1:45 |
-| 7 | 🌀 Spiral | 15 min | 1:45 – 2:00 |
-| 8 | ♾️ Recursion & Hilbert curve | 30 min | 2:00 – 2:30 |
+| # | Session | Duration | Clock | Speaking	| Coding
+|---|---------|----------|-------|----------|-------|
+| 1 | 👋 Introductions | 15 min | 0:00 – 0:15 | Mathura | Aditi |
+| 2 | 💻 Intro to p5.js | 15 min | 0:15 – 0:30 | Mathura | Aditi |
+| 3 | 🔲 10 PRINT demo & explanation | 15 min | 0:30 – 0:45 | Aditi | Mathura |
+| 4 | 🧪 Experiment with 10 PRINT | 15 min | 0:45 – 1:00 | Aditi | Mathura |
+| 5 | 〰️ Truchet tiles | 15 min | 1:00 – 1:15 | Aditi | Mathura |
+| 6 | 🎨 Image manipulation through pointillism | 30 min | 1:15 – 1:45 | Mathura | Aditi |
+| 7 | 🌀 Spiral | 15 min | 1:45 – 2:00 | Mathura | Aditi |
+| 8 | ♾️ Recursion & Hilbert curve | 30 min | 2:00 – 2:30 | Aditi | Mathura |
 | 9 | ✨ Sharing and demos | 30 min | 2:30 – 3:00 |
 
 ---
