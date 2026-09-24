@@ -2,6 +2,8 @@
 
 **Art – meet Math – meet Code** · a 3-hour generative art workshop in p5.js
 
+Workshop by Aditi Bhat and Mathura
+
 ## At a glance
 
 | # | Session | Duration | Clock | Speaking	| Coding
