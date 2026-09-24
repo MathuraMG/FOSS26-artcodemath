@@ -1,5 +1,5 @@
 let size = 400,
-  order = 3
+  order = 4
 
 function setup() {
   createCanvas(size, size);

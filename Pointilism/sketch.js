@@ -14,7 +14,7 @@ function draw() {
     let x = random(0,width);
     let y = random(0,height);
     let imgColour = img.get(x,y)
-    fill(imgColour[1],imgColour[0],imgColour[2]);
+    fill(100+imgColour[1],imgColour[0],imgColour[2]);
     ellipse(x,y,random(5,10));
   }
 }

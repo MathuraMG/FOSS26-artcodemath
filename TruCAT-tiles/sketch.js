@@ -3,12 +3,12 @@ let x, y;
 let size, choice;
 
 async function setup() {
-  createCanvas(800, 800);
+  createCanvas(400, 400);
 
   catImg = await loadImage("https://cataas.com/cat?width=400&height=400");
   catImg.resize(width, 0);      
 
-  size = 20;                          
+  size = 10;                          
   frameRate(2);
   angleMode(DEGREES);
 }
@@ -22,7 +22,7 @@ function draw() {
 
       let colour = catImg.get(x, y);   
       stroke(colour);
-      strokeWeight(size * 0.4);
+      strokeWeight(size * 0.3);
 
       choice = random(0, 1);
       if (choice < 0.5) {
