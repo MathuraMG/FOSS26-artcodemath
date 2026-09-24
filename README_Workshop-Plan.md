@@ -53,7 +53,7 @@
 ## 7. 🌀 Spiral — 15 min
 
 - Use brightness data to map onto the spiral and reveal the image
-- We will learn about translate here!
+- We will learn about translate here! and map
 
 ## 8. ♾️ Recursion & Hilbert curve — 30 min
 
