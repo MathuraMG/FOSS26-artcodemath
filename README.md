@@ -2,6 +2,8 @@
 
 **Art – meet Math – meet Code** · a 3-hour generative art workshop in p5.js
 
+Workshop by Aditi Bhat and Mathura
+
 ## At a glance
 
 | # | Session | Duration | Clock | Speaking	| Coding
@@ -38,6 +40,7 @@
 ## 4. 🧪 Experiment with 10 PRINT — 15 min
 
 - Hands-on: participants remix the 10 PRINT sketch
+- And we will learn about the random function
 
 ## 5. 〰️ Truchet tiles — 15 min
 
@@ -52,6 +55,7 @@
 ## 7. 🌀 Spiral — 15 min
 
 - Use brightness data to map onto the spiral and reveal the image
+- We will learn about translate here! and map
 
 ## 8. ♾️ Recursion & Hilbert curve — 30 min
 

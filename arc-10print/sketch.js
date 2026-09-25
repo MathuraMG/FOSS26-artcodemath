@@ -2,7 +2,7 @@ let x, y;
 let size, choice;
 function setup() {
   createCanvas(400, 400);
-  size = 50;
+  size = 20;
   frameRate(2);
   angleMode(DEGREES);
 }

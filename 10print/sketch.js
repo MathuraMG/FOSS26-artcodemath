@@ -6,7 +6,9 @@ function setup() {
 }
 
 function draw() {
-  background(220);
+  background("#0067a1");
+  stroke("#7bb5e0");
+  strokeWeight(2);
   for (let i=0; i < width; i += size) {
     for (let j = 0; j < height; j += size) {
       choice = random(0, 1);
