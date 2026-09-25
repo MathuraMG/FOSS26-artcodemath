@@ -26,6 +26,15 @@ h2 {
   margin: 0;
 }
 
+.example-container {
+  display: flex;
+  flex-direction: column;
+  margin: 20px 0;
+  align-items: center;
+}
+.example-container a{
+  color: antiquewhite;
+}
 
 body {
   background-color: #121212;
